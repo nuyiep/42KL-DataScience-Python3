@@ -15,3 +15,5 @@ print(Ned.die.__doc__)
 print("---")
 Lyanna = Stark("Lyanna", False)
 print(Lyanna.__dict__)
+
+hodor = Character("hodor")
