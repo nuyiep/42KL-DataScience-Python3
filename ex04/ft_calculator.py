@@ -13,6 +13,7 @@ class calculator:
         for i in new_vec:
             results = results + i
         print(f"Dot product is: {results}")
+        #sum function in python
 
     @staticmethod
     def add_vec(V1: list[float], V2: list[float]) -> None:
