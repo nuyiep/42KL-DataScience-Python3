@@ -3,11 +3,13 @@ Oriented Object Programming
 	- classes and heritage
 
 **ex00**
-__dict__ is a special attribute of an object that returns a dictionary containing the object's attributes (names) and their corresponding values
-@abstractmethod - @ is a decorator
+__ dict __ <br>
+is a special attribute of an object that returns a dictionary containing the object's attributes (names) and their corresponding values <br>
+@abstractmethod - @ is a decorator <br>
 decorator https://www.youtube.com/watch?v=BE-L7xu8pO4
 
 **ex01**
+<br>
 __str__ and __repr__ <br>
 		- special method (magic method/dunder method)
 		- customize string representation of an object
