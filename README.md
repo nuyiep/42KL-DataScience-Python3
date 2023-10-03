@@ -8,7 +8,7 @@ __dict__ is a special attribute of an object that returns a dictionary containin
 decorator https://www.youtube.com/watch?v=BE-L7xu8pO4
 
 **ex01**
-__str__ and __repr__ 
+__str__ and __repr__ <br>
 		- special method (magic method/dunder method)
 		- customize string representation of an object
 __str__ - user-friendly, informal string representation 
@@ -16,4 +16,4 @@ __repr__ - formal and unambiguous string representation
 class method - when you want to use a class variable
 			 - https://www.youtube.com/watch?v=lVfGQOzzRCM&ab_channel=Telusko
 static method - not object not class 
-			  - no self no class 
+			  - no self no cls  
